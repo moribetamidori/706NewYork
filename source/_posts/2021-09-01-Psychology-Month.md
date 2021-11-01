@@ -41,11 +41,11 @@ https://nyprojecthope.org
 
 **分享人**
 @Clear
-<img src='/metronic/assets/pages/img/people/clear.png' width=60%>
+<img src='/metronic/assets/pages/img/people/clear.jpg' width=60%>
 德州大学奥斯汀分校商科本科，纽约大学戏剧治疗硕士。塔罗占卜师，灵性表达者。
 
 @Jun
-<img src='/metronic/assets/pages/img/people/jun.png' width=60%>
+<img src='/metronic/assets/pages/img/people/jun.jpg' width=60%>
 纽约大学戏剧治疗硕士，西雅图华盛顿大学心理系本科。个人身心灵成长的推行者和探索者。
 
 

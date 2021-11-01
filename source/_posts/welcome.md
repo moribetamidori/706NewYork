@@ -18,20 +18,32 @@ date: 2021-08-01 14:10:18
 ## 快速开始 | Quick Start
 <br>
 
-加入我们的 **706 DAO** discord | Join our **706 DAO** discord 👾: https://discord.gg/47EknsnffS
-&nbsp;&nbsp;&nbsp;&nbsp;**What's a DAO?** - DAO stands for [Decentralized Autonomous Corporation](https://www.gemini.com/cryptopedia/decentralized-autonomous-organization-dao)
+**1. 加入我们的 **706 DAO** discord | Join our **706 DAO** discord 👾: https://discord.gg/47EknsnffS**
+**2. 关注我们的 [Instagram](https://www.instagram.com/706newyork/) | Follow our [Instagram](https://www.instagram.com/706newyork/)**
+**3. 关注我们的公众号[@706北美](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4MjY3ODkxMA==&scene=124#wechat_redirect) | Follow our [Wechat Public Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4MjY3ODkxMA==&scene=124#wechat_redirect)**
+<br>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;**What's a DAO?** - DAO stands for [Decentralized Autonomous Corporation](https://www.gemini.com/cryptopedia/decentralized-autonomous-organization-dao) -->
 
-**总站** | **master website**: http://www.706lifelab.com/
+**总站** | **master website: http://www.706lifelab.com/**
 
 <br>
+
+## 活动日历 | Event Calendar 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&ctz=America%2FNew_York&src=Z2Frdm44YzRhZDBlbTczcWs4NGk0ZHVobGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## 沙发客申请 | Couchsurfer Application 
 <br>
-如果你想要来我们的生活实验室当沙发客，请扫码填写沙发客申请表（上限一周）。<br>
-Please scan the following QR code for Couchsurfer Application (1-week maximum).
 
-<a><img src="https://i.loli.net/2021/10/12/uMBi2jlYqso6Tx8.png" width=20%></a>
+如果你想要来我们的生活实验室当沙发客，请填写沙发客[申请表](https://forms.gle/Wm7bUrMkRUXbZPnu5) (上限一周). [沙发客申请指南 | 中文](https://drive.google.com/file/d/1tBgXMJIaEj-yTqm92VHQd9oBIaUlSy7S/view?usp=sharing)
 
-For English procedure, please contact us at 706newyork@gmail.com
+Please fill out this [form](https://forms.gle/Wm7bUrMkRUXbZPnu5) for Couchsurfer Application (1-week maximum). [Couchsurfer Guide | English](https://drive.google.com/file/d/1FPxxU49MJZX6DKu3F_BrFgiMCkJsm0sS/view?usp=sharing)
+
+<!-- <a><img src="https://i.loli.net/2021/10/12/uMBi2jlYqso6Tx8.png" width=20%></a> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRhrdg_xccZ0zgylA6Rdl4hex7Bq0qyi8uIG0wgyncvOsatA/viewform?embedded=true" width="800" height="200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+## 沙发客可入住时间 | Couchsurfer Availability 
+<br>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%2333B679&ctz=America%2FNew_York&showTitle=1&src=YzNqcnQ3cWIxdDN2aW5yOWU0b3RxOW5xYW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 </font>

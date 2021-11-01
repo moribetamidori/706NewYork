@@ -6,6 +6,7 @@ tags:
 - 706反学科工作坊
 - Not-a-Hackathon
 - Co-hosting
+- 706纽约
 thumbnail: https://i.loli.net/2021/10/02/htp6XAKBf3NF4W7.png
 lede: 这个活动的最初模型**来自于Katherine Ye（现Carnegie Mellon University计算机科学博士生）于2017年在San Francisco组织了这个活动，**邀请了35个业界专家，让他们与跟自己领域不同的人形成小组，创造出新的项目理念，挑战自己的学科的边境
 ---

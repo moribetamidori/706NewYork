@@ -5,6 +5,7 @@ menu:
   Event: /archives/ # can set archive-dir in root config to custom value
   # Contact: /contact/
   Member: /member/
+  Partner: /partner/
   Press: /press/
    
 rss: /atom.xml
@@ -37,8 +38,8 @@ default_author: Anonymous
 about: 706 青年空间起源于宇宙中心五道口，是中国第一家青年空间，试图创造一种新型的实体空间形态，目前已在全国数个城市共创了数十个 706 据点，同时也孵化了具有潜力的合伙人项目。 <br><br> 706 通过社群运作模式，倡导一种新的生活方式，倡导新型的教育、旅行、居住和社交理念，让青年人探索生活的更多可能性。
 phone: 862-452-5788
 email: 706newyork@gmail.com
-address_1: 555 Union St
-address_2: Apt 2
+address_1: 5 mins walk to
+address_2: R Train Union Street
 address_3: Brooklyn, NY 11215
 skype: ptsteadman
 lat: 40.679150
